@@ -7,6 +7,8 @@
   <title>materi  github</title>
 </head>
 <body>
+  <div style="color: blue; text-align: center;">
     <h1>Dita Budi Astanto</h1>
+  </div>
 </body>
 </html>
